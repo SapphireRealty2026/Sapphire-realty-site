@@ -35,20 +35,20 @@ export const Hero = () => {
           </h1>
 
           <p className="mt-7 text-lg text-primary-foreground/85 max-w-xl leading-relaxed animate-fade-up [animation-delay:240ms]">
-            Boutique real estate brokerage serving Ontario, Rancho Cucamonga and the
+            Real estate brokerage serving Ontario, Rancho Cucamonga and the
             greater Inland Empire — guiding buyers, sellers and investors with care,
             candor, and uncommon attention to detail.
           </p>
 
           <div className="mt-10 flex flex-wrap gap-4 animate-fade-up [animation-delay:360ms]">
-            <a
+            
               href="#contact"
               className="group inline-flex items-center gap-3 bg-accent text-accent-foreground px-7 py-4 rounded-sm font-medium tracking-wide shadow-gold hover:bg-accent/90 transition-smooth"
             >
               Schedule a Consultation
               <ArrowRight className="w-4 h-4 transition-smooth group-hover:translate-x-1" />
             </a>
-            <a
+            
               href="#services"
               className="inline-flex items-center gap-3 border border-primary-foreground/40 text-primary-foreground px-7 py-4 rounded-sm font-medium tracking-wide hover:bg-primary-foreground hover:text-primary transition-smooth"
             >
