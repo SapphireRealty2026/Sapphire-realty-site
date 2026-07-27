@@ -73,9 +73,4 @@ export const Hero = () => {
         </div>
       </div>
 
-      <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-primary-foreground/60 text-xs uppercase tracking-[0.3em] animate-fade-in [animation-delay:800ms]">
-        Scroll to explore
-      </div>
-    </section>
-  );
-};
+      <div
